@@ -1,0 +1,66 @@
+# 📊 Finance Dashboard Project
+
+Welcome to my Data Science portfolio! This project explores how small business financial data can be analyzed using Python for insight-driven decision-making.
+
+---
+
+## 🔍 Project Overview
+
+This notebook analyzes simulated monthly revenue and expense data to:
+- Track profit trends over time
+- Visualize key performance indicators
+- Calculate profit margins
+- Forecast future revenue using linear regression
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **Python**
+- **Pandas** for data manipulation  
+- **Matplotlib & Seaborn** for visualization  
+- **Scikit-learn** for simple forecasting  
+- **Google Colab** for development
+
+---
+
+## 📈 Key Visuals
+
+- Line plot of monthly revenue and expenses
+- Bar chart showing profit margins by month
+- Forecast of next quarter’s revenue based on trends
+
+---
+
+## 📁 Dataset
+
+This project uses **mock financial data** for educational and portfolio purposes. The dataset includes:
+- Monthly Revenue
+- Monthly Expenses
+- Calculated Profit and Profit Margins
+
+---
+
+## 🚀 What I Learned
+
+- Visual storytelling with data
+- Hands-on practice with dataframes and plots
+- Applying machine learning basics (regression) to financial data
+
+---
+
+## 🧠 Future Plans
+
+- Integrate real-world QuickBooks exports  
+- Build an interactive dashboard using Streamlit or Power BI  
+- Expand forecasting models with time series data
+
+---
+
+## 🙋🏽‍♂️ About Me
+
+I'm Michael Boateng — a Data Science Fellow, Financial Analyst, and Educator passionate about leveraging data to solve real-world problems.
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/)  
+🌐 Learn more: michaelboateng.com *(coming soon)*
+
